@@ -1,0 +1,21 @@
+.TodoList h1 {
+    font-weight: 700;
+    font-size: 8rem;
+    margin-top: 4rem;
+}
+
+.TodoList h2 {
+    margin-top: 1rem;
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+.tasks {
+    border-radius: .6rem;
+    margin: 2rem auto 0 auto;
+    max-width: max-content;
+    -webkit-border-radius: .6rem;
+    -moz-border-radius: .6rem;
+    -ms-border-radius: .6rem;
+    -o-border-radius: .6rem;
+}
